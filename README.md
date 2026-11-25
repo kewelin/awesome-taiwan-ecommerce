@@ -106,6 +106,8 @@ A curated list of platforms, tools, APIs, and open data that Taiwanese e-commerc
 ## Channels and Marketplaces
 
 - [蝦皮購物](https://shopee.tw)、[momo購物網](https://www.momoshop.com.tw)、[PChome 24h](https://24h.pchome.com.tw)、[Yahoo購物中心](https://tw.buy.yahoo.com)、[Coupang 台灣](https://www.tw.coupang.com)、[博客來](https://www.books.com.tw)、[Pinkoi](https://www.pinkoi.com)（design goods）
+- [Etsy 搜索 MCP：商品、价格与畅销品](https://apify.com/publicrecords/etsy-search-scraper) - 按关键词或类目获取 Etsy 搜索结果：价格、评分、评论数、Bestseller 徽章、广告标记和搜索排名 (Apify).
+- [Etsy 店铺每日销量 MCP](https://apify.com/publicrecords/etsy-shop-velocity) - 37 万多家 Etsy 店铺的每日、7 天和 28 天销量，依据各店铺公开的销量计数器测得 (Apify).
 
 ## Intelligence, Price Comparison, and Data Tools
 
